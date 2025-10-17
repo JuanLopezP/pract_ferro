@@ -1,0 +1,125 @@
+Performance Log:
+Railway: Pr1
+Timetable: timetable-apartadoB
+Start Time: 06:00
+06:00:00: No random delays selected
+06:00:00: No random failures selected
+06:00:00: Timetable clock speed changed to eight times normal
+06:01:00: MA01 entered railway at Entrada, track element 26-16, on time
+06:03:00: SE01 entered railway at Entrada, track element 26-16, on time
+06:05:00: BA01 entered railway at Entrada, track element 26-16, on time
+06:05:52: MA01 arrived at Madrid on time
+06:07:00: MA01 changed direction at Madrid on time
+06:07:52: SE01 arrived at Sevilla on time
+06:08:00: MA01 departed from Madrid on time
+06:09:00: SE02 entered railway at Entrada, track element 26-16, on time
+06:09:00: SE01 changed direction at Sevilla on time
+06:09:50: BA01 arrived at Barcelona on time
+06:10:00: SE01 departed from Sevilla on time
+06:11:00: MA02 entered railway at Entrada, track element 26-16, on time
+06:12:44: MA01 left railway at Salida, track element 26-18, on time
+06:14:43: SE01 left railway at Salida, track element 26-18, on time
+06:15:00: SE03 entered railway at Entrada, track element 26-16, on time
+06:15:00: BA01 changed direction at Barcelona on time
+06:16:46: SE02 arrived at Sevilla 2 minutes late
+06:17:17: SE02 changed direction at Sevilla 2 minutes late
+06:17:48: SE02 departed from Sevilla 1 minute late
+06:18:13: MA02 arrived at Madrid 2 minutes late
+06:18:43: MA02 changed direction at Madrid 1 minute late
+06:19:14: MA02 departed from Madrid 1 minute late
+06:21:00: MA03 entered railway at Entrada, track element 26-16, on time
+06:21:00 HELD: SE04 can't enter railway, train obstructing entry position Entrada
+06:21:48: SE04 entered railway at Entrada, track element 26-16, on time
+06:22:28: SE02 left railway at Salida, track element 26-18, 1 minute late
+06:24:31: SE03 arrived at Sevilla 4 minutes late
+06:25:00: BA01 departed from Barcelona on time
+06:25:01: SE03 changed direction at Sevilla 4 minutes late
+06:25:13: MA02 left railway at Salida, track element 26-18, 2 minutes late
+06:25:32: SE03 departed from Sevilla 3 minutes late
+06:26:45: MA03 arrived at Madrid on time
+06:27:00: SE05 entered railway at Entrada, track element 26-16, on time
+06:27:16: MA03 changed direction at Madrid on time
+06:28:00: MA03 departed from Madrid on time
+06:29:59: BA01 left railway at Salida, track element 26-18, on time
+06:31:00: MA04 entered railway at Entrada, track element 26-16, on time
+06:31:54: SE03 left railway at Salida, track element 26-18, 4 minutes late
+06:33:00 HELD: SE06 can't enter railway, train obstructing entry position Entrada
+06:33:41: SE04 arrived at Sevilla 7 minutes late
+06:34:11: SE04 changed direction at Sevilla 7 minutes late
+06:34:12: MA03 left railway at Salida, track element 26-18, 1 minute late
+06:34:42: SE04 departed from Sevilla 6 minutes late
+06:35:00 HELD: BA02 can't enter railway, train obstructing entry position Entrada
+06:38:33: BA02 entered railway at Entrada, track element 26-16, 3 minutes late
+06:39:23: SE04 left railway at Salida, track element 26-18, 6 minutes late
+06:40:17: SE06 entered railway at Entrada, track element 26-16, 7 minutes late
+06:40:17 HELD: SE07 can't enter railway, train obstructing entry position Entrada
+06:41:00 HELD: MA05 can't enter railway, train obstructing entry position Entrada
+06:41:27: SE05 arrived at Sevilla 9 minutes late
+06:41:57: SE05 changed direction at Sevilla 8 minutes late
+06:42:28: SE05 departed from Sevilla 8 minutes late
+06:42:42: MA05 entered railway at Entrada, track element 26-16, 1 minute late
+06:43:11: MA04 arrived at Madrid 7 minutes late
+06:43:42: MA04 changed direction at Madrid 6 minutes late
+06:44:12: MA04 departed from Madrid 6 minutes late
+06:45:37: BA02 arrived at Barcelona 5 minutes late
+06:46:08: BA02 changed direction at Barcelona 1 minute late
+06:47:31: SE07 entered railway at Entrada, track element 26-16, 8 minutes late
+06:47:31 HELD: SE08 can't enter railway, train obstructing entry position Entrada
+06:48:24: SE05 left railway at Salida, track element 26-18, 9 minutes late
+06:49:41: SE08 entered railway at Entrada, track element 26-16, 4 minutes late
+06:50:26: SE06 arrived at Sevilla 12 minutes late
+06:50:56: SE06 changed direction at Sevilla 11 minutes late
+06:51:00 HELD: MA06 can't enter railway, train obstructing entry position Entrada
+06:51:00 HELD: SE09 can't enter railway, train obstructing entry position Entrada
+06:51:04: MA04 left railway at Salida, track element 26-18, 8 minutes late
+06:51:26: SE06 departed from Sevilla 11 minutes late
+06:52:36: MA05 arrived at Madrid 6 minutes late
+06:53:06: MA05 changed direction at Madrid 6 minutes late
+06:53:37: MA05 departed from Madrid 5 minutes late
+06:55:00: BA02 departed from Barcelona on time
+06:55:49: MA06 entered railway at Entrada, track element 26-16, 4 minutes late
+06:56:08: SE06 left railway at Salida, track element 26-18, 11 minutes late
+06:58:44: SE07 arrived at Sevilla 14 minutes late
+06:59:14: SE07 changed direction at Sevilla 14 minutes late
+06:59:27: MA05 left railway at Salida, track element 26-18, 6 minutes late
+06:59:45: SE07 departed from Sevilla 13 minutes late
+07:01:00 HELD: MA07 can't enter railway, train obstructing entry position Entrada
+07:01:20: BA02 left railway at Salida, track element 26-18, 1 minute late
+07:03:57: MA07 entered railway at Entrada, track element 26-16, 2 minutes late
+07:04:44: SE07 left railway at Salida, track element 26-18, 13 minutes late
+07:05:00 HELD: BA03 can't enter railway, train obstructing entry position Entrada
+07:05:43: BA03 entered railway at Entrada, track element 26-16, on time
+
+
+***************************************
+
+Performance summary:
+4 on-time arrivals
+10 late arrivals (average 6,8 min)
+0 early arrivals
+0 on-time passes
+0 late passes
+0 early passes
+3 on-time exits
+11 late exits (average 5,6 min)
+0 early exits
+5 on-time departures
+9 late departures (average 6,0 min)
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+5 locations that trains failed to reach (average lateness 8,7 min)
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 43%
+Overall rating: Bad
+
+***************************************

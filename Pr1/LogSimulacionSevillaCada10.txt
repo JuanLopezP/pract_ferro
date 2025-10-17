@@ -1,0 +1,130 @@
+Performance Log:
+Railway: Pr1
+Timetable: timetable-apartadoB
+Start Time: 06:00
+06:00:00: No random delays selected
+06:00:00: No random failures selected
+06:00:00: Timetable clock speed changed to eight times normal
+06:01:00: MA01 entered railway at Entrada, track element 26-16, on time
+06:03:01: SE01 entered railway at Entrada, track element 26-16, on time
+06:05:00: BA01 entered railway at Entrada, track element 26-16, on time
+06:05:51: MA01 arrived at Madrid on time
+06:07:00: MA01 changed direction at Madrid on time
+06:07:52: SE01 arrived at Sevilla on time
+06:08:00: MA01 departed from Madrid on time
+06:09:00: SE01 changed direction at Sevilla on time
+06:09:51: BA01 arrived at Barcelona on time
+06:10:00: SE01 departed from Sevilla on time
+06:11:01: MA02 entered railway at Entrada, track element 26-16, on time
+06:12:44: MA01 left railway at Salida, track element 26-18, on time
+06:13:00: SE02 entered railway at Entrada, track element 26-16, on time
+06:14:59: SE01 left railway at Salida, track element 26-18, on time
+06:15:00: BA01 changed direction at Barcelona on time
+06:15:53: MA02 arrived at Madrid on time
+06:17:00: MA02 changed direction at Madrid on time
+06:17:51: SE02 arrived at Sevilla on time
+06:18:00: MA02 departed from Madrid on time
+06:19:00: SE02 changed direction at Sevilla on time
+06:20:00: SE02 departed from Sevilla on time
+06:21:00: MA03 entered railway at Entrada, track element 26-16, on time
+06:23:00: SE03 entered railway at Entrada, track element 26-16, on time
+06:23:17: MA02 left railway at Salida, track element 26-18, on time
+06:25:00: BA01 departed from Barcelona on time
+06:25:22: SE02 left railway at Salida, track element 26-18, on time
+06:26:10: MA03 arrived at Madrid on time
+06:27:00: MA03 changed direction at Madrid on time
+06:28:00: MA03 departed from Madrid on time
+06:28:09: SE03 arrived at Sevilla on time
+06:29:00: SE03 changed direction at Sevilla on time
+06:29:43: BA01 left railway at Salida, track element 26-18, on time
+06:30:00: SE03 departed from Sevilla on time
+06:31:00: MA04 entered railway at Entrada, track element 26-16, on time
+06:32:41: MA03 left railway at Salida, track element 26-18, on time
+06:33:00: SE04 entered railway at Entrada, track element 26-16, on time
+06:34:41: SE03 left railway at Salida, track element 26-18, on time
+06:35:00: BA02 entered railway at Entrada, track element 26-16, on time
+06:35:51: MA04 arrived at Madrid on time
+06:37:00: MA04 changed direction at Madrid on time
+06:37:51: SE04 arrived at Sevilla on time
+06:38:00: MA04 departed from Madrid on time
+06:39:00: SE04 changed direction at Sevilla on time
+06:39:51: BA02 arrived at Barcelona on time
+06:40:00: SE04 departed from Sevilla on time
+06:41:00: MA05 entered railway at Entrada, track element 26-16, on time
+06:42:59: MA04 left railway at Salida, track element 26-18, on time
+06:43:00: SE05 entered railway at Entrada, track element 26-16, on time
+06:45:00: BA02 changed direction at Barcelona on time
+06:45:01: SE04 left railway at Salida, track element 26-18, on time
+06:46:09: MA05 arrived at Madrid on time
+06:47:00: MA05 changed direction at Madrid on time
+06:47:51: SE05 arrived at Sevilla on time
+06:48:00: MA05 departed from Madrid on time
+06:49:00: SE05 changed direction at Sevilla on time
+06:50:00: SE05 departed from Sevilla on time
+06:51:00: MA06 entered railway at Entrada, track element 26-16, on time
+06:52:41: MA05 left railway at Salida, track element 26-18, on time
+06:53:00: SE06 entered railway at Entrada, track element 26-16, on time
+06:54:41: SE05 left railway at Salida, track element 26-18, on time
+06:55:00: BA02 departed from Barcelona on time
+06:55:51: MA06 arrived at Madrid on time
+06:57:00: MA06 changed direction at Madrid on time
+06:57:53: SE06 arrived at Sevilla on time
+06:58:00: MA06 departed from Madrid on time
+06:59:00: SE06 changed direction at Sevilla on time
+06:59:42: BA02 left railway at Salida, track element 26-18, on time
+07:00:00: SE06 departed from Sevilla on time
+07:01:00: MA07 entered railway at Entrada, track element 26-16, on time
+07:02:41: MA06 left railway at Salida, track element 26-18, on time
+07:03:00: SE07 entered railway at Entrada, track element 26-16, on time
+07:04:42: SE06 left railway at Salida, track element 26-18, on time
+07:05:00: BA03 entered railway at Entrada, track element 26-16, on time
+07:05:51: MA07 arrived at Madrid on time
+07:07:00: MA07 changed direction at Madrid on time
+07:07:51: SE07 arrived at Sevilla on time
+07:08:00: MA07 departed from Madrid on time
+07:09:00: SE07 changed direction at Sevilla on time
+07:09:51: BA03 arrived at Barcelona on time
+07:10:00: SE07 departed from Sevilla on time
+07:11:00: MA08 entered railway at Entrada, track element 26-16, on time
+07:13:00: SE08 entered railway at Entrada, track element 26-16, on time
+07:13:16: MA07 left railway at Salida, track element 26-18, on time
+07:15:00: BA03 changed direction at Barcelona on time
+07:15:18: SE07 left railway at Salida, track element 26-18, on time
+07:15:51: MA08 arrived at Madrid on time
+07:17:00: MA08 changed direction at Madrid on time
+07:18:00: MA08 departed from Madrid on time
+07:18:10: SE08 arrived at Sevilla on time
+07:19:00: SE08 changed direction at Sevilla on time
+
+
+***************************************
+
+Performance summary:
+19 on-time arrivals
+0 late arrivals
+0 early arrivals
+0 on-time passes
+0 late passes
+0 early passes
+16 on-time exits
+0 late exits
+0 early exits
+17 on-time departures
+0 late departures
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 100%
+Overall rating: Perfect!
+
+***************************************
