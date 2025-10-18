@@ -1,0 +1,144 @@
+Performance Log:
+Railway: Pr2
+Timetable: TimetablePr2CO
+Start Time: 06:00
+06:00:00: No random delays selected
+06:00:00: No random failures selected
+06:00:00: Timetable clock speed changed to eight times normal
+06:01:00: MA01 entered railway at Entrada, track element 26-16, on time
+06:03:00: SE01 entered railway at Entrada, track element 26-16, on time
+06:05:00: BA01 entered railway at Entrada, track element 26-16, on time
+06:05:51: MA01 arrived at Madrid on time
+06:07:00: CO01 entered railway at Entrada, track element 26-16, on time
+06:07:00: MA01 changed direction at Madrid on time
+06:07:51: SE01 arrived at Sevilla on time
+06:08:00: MA01 departed from Madrid on time
+06:09:00: SE01 changed direction at Sevilla on time
+06:09:51: BA01 arrived at Barcelona on time
+06:10:00: SE01 departed from Sevilla on time
+06:11:00: MA02 entered railway at Entrada, track element 26-16, on time
+06:11:51: CO01 arrived at Cordoba 3 minutes early
+06:13:00: SE02 entered railway at Entrada, track element 26-16, on time
+06:13:02: MA01 left railway at Salida, track element 26-18, on time
+06:15:00: BA01 changed direction at Barcelona on time
+06:15:29: SE01 left railway at Salida, track element 26-18, on time
+06:16:00: CO01 changed direction at Cordoba on time
+06:16:11: MA02 arrived at Madrid on time
+06:17:00: CO01 departed from Cordoba on time
+06:17:00: MA02 changed direction at Madrid on time
+06:17:52: SE02 arrived at Sevilla on time
+06:18:00: MA02 departed from Madrid on time
+06:19:00: SE02 changed direction at Sevilla on time
+06:20:00: SE02 departed from Sevilla on time
+06:21:00: MA03 entered railway at Entrada, track element 26-16, on time
+06:21:41: CO01 left railway at Salida, track element 26-18, 1 minute early
+06:23:00: SE03 entered railway at Entrada, track element 26-16, on time
+06:23:45: MA02 left railway at Salida, track element 26-18, on time
+06:25:00: BA01 departed from Barcelona on time
+06:25:37: SE02 left railway at Salida, track element 26-18, on time
+06:25:51: MA03 arrived at Madrid on time
+06:27:00: MA03 changed direction at Madrid on time
+06:27:01: CO02 entered railway at Entrada, track element 26-16, on time
+06:27:52: SE03 arrived at Sevilla on time
+06:28:00: MA03 departed from Madrid on time
+06:29:00: SE03 changed direction at Sevilla on time
+06:29:59: BA01 left railway at Salida, track element 26-18, on time
+06:30:00: SE03 departed from Sevilla on time
+06:31:00: MA04 entered railway at Entrada, track element 26-16, on time
+06:32:16: CO02 arrived at Cordoba 2 minutes early
+06:33:00: SE04 entered railway at Entrada, track element 26-16, on time
+06:33:18: MA03 left railway at Salida, track element 26-18, on time
+06:35:00: BA02 entered railway at Entrada, track element 26-16, on time
+06:35:18: SE03 left railway at Salida, track element 26-18, on time
+06:36:00: CO02 changed direction at Cordoba on time
+06:36:09: MA04 arrived at Madrid on time
+06:37:00: CO02 departed from Cordoba on time
+06:37:00: MA04 changed direction at Madrid on time
+06:37:51: SE04 arrived at Sevilla on time
+06:38:00: MA04 departed from Madrid on time
+06:39:00: SE04 changed direction at Sevilla on time
+06:39:51: BA02 arrived at Barcelona on time
+06:40:00: SE04 departed from Sevilla on time
+06:41:00: MA05 entered railway at Entrada, track element 26-16, on time
+06:41:41: CO02 left railway at Salida, track element 26-18, 1 minute early
+06:43:00: SE05 entered railway at Entrada, track element 26-16, on time
+06:43:47: MA04 left railway at Salida, track element 26-18, on time
+06:45:00: BA02 changed direction at Barcelona on time
+06:45:43: SE04 left railway at Salida, track element 26-18, on time
+06:45:54: MA05 arrived at Madrid on time
+06:47:00: CO03 entered railway at Entrada, track element 26-16, on time
+06:47:00: MA05 changed direction at Madrid on time
+06:47:51: SE05 arrived at Sevilla on time
+06:48:00: MA05 departed from Madrid on time
+06:49:00: SE05 changed direction at Sevilla on time
+06:50:00: SE05 departed from Sevilla on time
+06:51:00: MA06 entered railway at Entrada, track element 26-16, on time
+06:51:51: CO03 arrived at Cordoba 3 minutes early
+06:52:43: MA05 left railway at Salida, track element 26-18, on time
+06:53:01: SE06 entered railway at Entrada, track element 26-16, on time
+06:55:00: BA02 departed from Barcelona on time
+06:55:42: SE05 left railway at Salida, track element 26-18, on time
+06:55:52: MA06 arrived at Madrid on time
+06:56:00: CO03 changed direction at Cordoba on time
+06:57:00: CO03 departed from Cordoba on time
+06:57:00: MA06 changed direction at Madrid on time
+06:58:00: MA06 departed from Madrid on time
+06:58:10: SE06 arrived at Sevilla on time
+06:59:00: SE06 changed direction at Sevilla on time
+06:59:40: BA02 left railway at Salida, track element 26-18, on time
+07:00:00: SE06 departed from Sevilla on time
+07:01:00: MA07 entered railway at Entrada, track element 26-16, on time
+07:01:43: CO03 left railway at Salida, track element 26-18, 1 minute early
+07:03:00: SE07 entered railway at Entrada, track element 26-16, on time
+07:03:43: MA06 left railway at Salida, track element 26-18, on time
+07:05:00: BA03 entered railway at Entrada, track element 26-16, on time
+07:05:36: SE06 left railway at Salida, track element 26-18, on time
+07:05:51: MA07 arrived at Madrid on time
+07:07:00: CO04 entered railway at Entrada, track element 26-16, on time
+07:07:00: MA07 changed direction at Madrid on time
+07:07:53: SE07 arrived at Sevilla on time
+07:08:00: MA07 departed from Madrid on time
+07:09:00: SE07 changed direction at Sevilla on time
+07:09:50: BA03 arrived at Barcelona on time
+07:10:00: SE07 departed from Sevilla on time
+07:11:00: MA08 entered railway at Entrada, track element 26-16, on time
+07:12:10: CO04 arrived at Cordoba 2 minutes early
+07:13:00: SE08 entered railway at Entrada, track element 26-16, on time
+07:13:00: MA07 left railway at Salida, track element 26-18, on time
+07:15:00: BA03 changed direction at Barcelona on time
+07:15:39: SE07 left railway at Salida, track element 26-18, on time
+07:16:00: CO04 changed direction at Cordoba on time
+07:16:09: MA08 arrived at Madrid on time
+
+
+***************************************
+
+Performance summary:
+18 on-time arrivals
+0 late arrivals
+4 early arrivals (average 2,5 min)
+0 on-time passes
+0 late passes
+0 early passes
+16 on-time exits
+0 late exits
+3 early exits (average 1,0 min)
+19 on-time departures
+0 late departures
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 100%
+Overall rating: Perfect!
+
+***************************************
