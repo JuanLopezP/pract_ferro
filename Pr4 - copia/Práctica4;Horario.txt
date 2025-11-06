@@ -1,0 +1,681 @@
+Performance Log:
+Railway: Práctica4
+Timetable: HorarioP4
+Start Time: 06:00
+06:00:00: No random delays selected
+06:00:00: No random failures selected
+06:00:00: Timetable clock speed changed to eight times normal
+06:01:00: L101 entered railway at Entrada línea roja, track element 4-25, on time
+06:01:00: L201 entered railway at Entrada línea azul, track element 4-35, on time
+06:02:11: L201 arrived at Palacio de los Deportes on time
+06:02:12: L101 arrived at Andalucia Tech on time
+06:02:41: L201 departed from Palacio de los Deportes on time
+06:02:42: L101 departed from Andalucia Tech on time
+06:03:46: L201 arrived at Puerta Blanca on time
+06:03:51: L101 arrived at Paraninfo on time
+06:04:16: L201 departed from Puerta Blanca on time
+06:04:21: L101 departed from Paraninfo on time
+06:05:26: L201 arrived at La Luz - La Paz, on time
+06:05:27: L101 arrived at El Consul on time
+06:06:00: L101 departed from El Consul on time
+06:06:00: L201 departed from La Luz - La Paz, on time
+06:07:02: L101 arrived at Clinico on time
+06:07:06: L201 arrived at El Torcal on time
+06:08:00: L102 entered railway at Entrada línea roja, track element 4-25, on time
+06:08:00: L202 entered railway at Entrada línea azul, track element 4-35, on time
+06:08:00: L101 departed from Clinico on time
+06:08:00: L201 departed from El Torcal on time
+06:09:02: L101 arrived at Universidad on time
+06:09:06: L201 arrived at Princesa - Huelin, on time
+06:09:11: L202 arrived at Palacio de los Deportes on time
+06:09:12: L102 arrived at Andalucia Tech on time
+06:09:42: L202 departed from Palacio de los Deportes on time
+06:09:43: L102 departed from Andalucia Tech on time
+06:10:00: L101 departed from Universidad on time
+06:10:00: L201 departed from Princesa - Huelin, on time
+06:10:47: L202 arrived at Puerta Blanca on time
+06:10:52: L102 arrived at Paraninfo on time
+06:11:02: L101 arrived at Ciudad de la Justicia on time
+06:11:07: L201 arrived at La Isla on time
+06:11:17: L202 departed from Puerta Blanca on time
+06:11:22: L102 departed from Paraninfo on time
+06:12:00: L101 departed from Ciudad de la Justicia on time
+06:12:00: L201 departed from La Isla on time
+06:12:27: L202 arrived at La Luz - La Paz, on time
+06:12:28: L102 arrived at El Consul on time
+06:13:00: L102 departed from El Consul on time
+06:13:00: L202 departed from La Luz - La Paz, on time
+06:13:02: L101 arrived at Portada Alta on time
+06:13:04: L201 arrived at El Perchel on time
+06:14:00: L101 departed from Portada Alta on time
+06:14:00: L201 departed from El Perchel on time
+06:14:02: L102 arrived at Clinico on time
+06:14:06: L202 arrived at El Torcal on time
+06:14:57: L201 arrived at Guadalmedina 1 minute early
+06:15:00: L103 entered railway at Entrada línea roja, track element 4-25, on time
+06:15:00: L203 entered railway at Entrada línea azul, track element 4-35, on time
+06:15:00: L102 departed from Clinico on time
+06:15:00: L202 departed from El Torcal on time
+06:15:02: L101 arrived at Carranque on time
+06:16:00: L101 departed from Carranque on time
+06:16:03: L102 arrived at Universidad on time
+06:16:06: L202 arrived at Princesa - Huelin, on time
+06:16:12: L203 arrived at Palacio de los Deportes on time
+06:16:12: L103 arrived at Andalucia Tech on time
+06:16:42: L203 departed from Palacio de los Deportes on time
+06:16:43: L103 departed from Andalucia Tech on time
+06:17:00: L201 changed direction at Guadalmedina on time
+06:17:00: L102 departed from Universidad on time
+06:17:00: L202 departed from Princesa - Huelin, on time
+06:17:02: L101 arrived at Barbarela on time
+06:17:47: L203 arrived at Puerta Blanca on time
+06:17:52: L103 arrived at Paraninfo on time
+06:18:00: L101 departed from Barbarela on time
+06:18:00: L201 departed from Guadalmedina on time
+06:18:02: L102 arrived at Ciudad de la Justicia on time
+06:18:07: L202 arrived at La Isla on time
+06:18:17: L203 departed from Puerta Blanca on time
+06:18:22: L103 departed from Paraninfo on time
+06:18:56: L201 arrived at El Perchel 1 minute early
+06:18:58: L101 arrived at La Union 1 minute early
+06:19:00: L102 departed from Ciudad de la Justicia on time
+06:19:00: L202 departed from La Isla on time
+06:19:27: L203 arrived at La Luz - La Paz, on time
+06:19:28: L103 arrived at El Consul on time
+06:20:00: L101 departed from La Union on time
+06:20:00: L201 departed from El Perchel on time
+06:20:00: L103 departed from El Consul on time
+06:20:00: L203 departed from La Luz - La Paz, on time
+06:20:02: L102 arrived at Portada Alta on time
+06:20:05: L202 arrived at El Perchel on time
+06:21:00: L102 departed from Portada Alta on time
+06:21:00: L202 departed from El Perchel on time
+06:21:02: L103 arrived at Clinico on time
+06:21:03: L101 arrived at El Perchel on time
+06:21:06: L201 arrived at La Isla on time
+06:21:06: L203 arrived at El Torcal on time
+06:21:58: L202 arrived at Guadalmedina 1 minute early
+06:22:00: L104 entered railway at Entrada línea roja, track element 4-25, on time
+06:22:00: L204 entered railway at Entrada línea azul, track element 4-35, on time
+06:22:00: L101 departed from El Perchel on time
+06:22:00: L201 departed from La Isla on time
+06:22:00: L103 departed from Clinico on time
+06:22:00: L203 departed from El Torcal on time
+06:22:02: L102 arrived at Carranque on time
+06:23:00: L102 departed from Carranque on time
+06:23:02: L101 arrived at Guadalmedina on time
+06:23:02: L103 arrived at Universidad on time
+06:23:05: L201 arrived at Princesa - Huelin, on time
+06:23:07: L203 arrived at Princesa - Huelin, on time
+06:23:12: L204 arrived at Palacio de los Deportes on time
+06:23:13: L104 arrived at Andalucia Tech on time
+06:23:42: L204 departed from Palacio de los Deportes on time
+06:23:43: L104 departed from Andalucia Tech on time
+06:24:00: L101 departed from Guadalmedina on time
+06:24:00: L201 departed from Princesa - Huelin, on time
+06:24:00: L202 changed direction at Guadalmedina on time
+06:24:00: L103 departed from Universidad on time
+06:24:00: L203 departed from Princesa - Huelin, on time
+06:24:02: L102 arrived at Barbarela on time
+06:24:47: L204 arrived at Puerta Blanca on time
+06:24:52: L104 arrived at Paraninfo on time
+06:25:00: L102 departed from Barbarela on time
+06:25:00: L202 departed from Guadalmedina on time
+06:25:02: L101 arrived at Atarazanas on time
+06:25:02: L103 arrived at Ciudad de la Justicia on time
+06:25:06: L201 arrived at El Torcal on time
+06:25:08: L203 arrived at La Isla on time
+06:25:18: L204 departed from Puerta Blanca on time
+06:25:22: L104 departed from Paraninfo on time
+06:25:57: L202 arrived at El Perchel 1 minute early
+06:25:59: L102 arrived at La Union 1 minute early
+06:26:00: L201 departed from El Torcal on time
+06:26:00: L103 departed from Ciudad de la Justicia on time
+06:26:00: L203 departed from La Isla on time
+06:26:27: L204 arrived at La Luz - La Paz, on time
+06:26:28: L104 arrived at El Consul on time
+06:27:00: L101 changed direction at Atarazanas on time
+06:27:00: L102 departed from La Union on time
+06:27:00: L202 departed from El Perchel on time
+06:27:00: L104 departed from El Consul on time
+06:27:00: L204 departed from La Luz - La Paz, on time
+06:27:01: L103 arrived at Portada Alta on time
+06:27:05: L203 arrived at El Perchel on time
+06:27:08: L201 arrived at La Luz - La Paz, on time
+06:28:00: L101 departed from Atarazanas on time
+06:28:00: L201 departed from La Luz - La Paz, on time
+06:28:00: L103 departed from Portada Alta on time
+06:28:00: L203 departed from El Perchel on time
+06:28:02: L104 arrived at Clinico on time
+06:28:03: L102 arrived at El Perchel on time
+06:28:06: L202 arrived at La Isla on time
+06:28:06: L204 arrived at El Torcal on time
+06:28:57: L203 arrived at Guadalmedina 1 minute early
+06:29:00: L102 departed from El Perchel on time
+06:29:00: L202 departed from La Isla on time
+06:29:00: L104 departed from Clinico on time
+06:29:00: L204 departed from El Torcal on time
+06:29:01: L105 entered railway at Entrada línea roja, track element 4-25, on time
+06:29:01: L205 entered railway at Entrada línea azul, track element 4-35, on time
+06:29:01: L103 arrived at Carranque on time
+06:29:02: L101 arrived at Guadalmedina on time
+06:29:07: L201 arrived at Puerta Blanca on time
+06:30:00: L101 departed from Guadalmedina on time
+06:30:00: L201 departed from Puerta Blanca on time
+06:30:00: L103 departed from Carranque on time
+06:30:02: L102 arrived at Guadalmedina on time
+06:30:02: L104 arrived at Universidad on time
+06:30:07: L202 arrived at Princesa - Huelin, on time
+06:30:07: L204 arrived at Princesa - Huelin, on time
+06:30:13: L205 arrived at Palacio de los Deportes on time
+06:30:14: L105 arrived at Andalucia Tech on time
+06:30:43: L205 departed from Palacio de los Deportes on time
+06:30:44: L105 departed from Andalucia Tech on time
+06:31:00: L102 departed from Guadalmedina on time
+06:31:00: L202 departed from Princesa - Huelin, on time
+06:31:00: L203 changed direction at Guadalmedina on time
+06:31:00: L104 departed from Universidad on time
+06:31:00: L204 departed from Princesa - Huelin, on time
+06:31:02: L103 arrived at Barbarela on time
+06:31:03: L101 arrived at El Perchel on time
+06:31:06: L201 arrived at Palacio de los Deportes on time
+06:31:49: L205 arrived at Puerta Blanca on time
+06:31:53: L105 arrived at Paraninfo on time
+06:32:00: L101 departed from El Perchel on time
+06:32:00: L201 departed from Palacio de los Deportes on time
+06:32:00: L103 departed from Barbarela on time
+06:32:00: L203 departed from Guadalmedina on time
+06:32:02: L102 arrived at Atarazanas on time
+06:32:02: L104 arrived at Ciudad de la Justicia on time
+06:32:05: L202 arrived at El Torcal on time
+06:32:08: L204 arrived at La Isla on time
+06:32:19: L205 departed from Puerta Blanca on time
+06:32:23: L105 departed from Paraninfo on time
+06:32:53: L201 left railway at Salida línea azul, track element 4-33, on time
+06:32:57: L203 arrived at El Perchel 1 minute early
+06:32:58: L103 arrived at La Union 1 minute early
+06:33:00: L202 departed from El Torcal on time
+06:33:00: L104 departed from Ciudad de la Justicia on time
+06:33:00: L204 departed from La Isla on time
+06:33:03: L101 arrived at La Union on time
+06:33:27: L205 arrived at La Luz - La Paz, on time
+06:33:28: L105 arrived at El Consul on time
+06:34:00: L101 departed from La Union on time
+06:34:00: L102 changed direction at Atarazanas on time
+06:34:00: L103 departed from La Union on time
+06:34:00: L203 departed from El Perchel on time
+06:34:00: L105 departed from El Consul on time
+06:34:00: L205 departed from La Luz - La Paz, on time
+06:34:02: L104 arrived at Portada Alta on time
+06:34:05: L204 arrived at El Perchel on time
+06:34:08: L202 arrived at La Luz - La Paz, on time
+06:35:00: L102 departed from Atarazanas on time
+06:35:00: L202 departed from La Luz - La Paz, on time
+06:35:00: L104 departed from Portada Alta on time
+06:35:00: L204 departed from El Perchel on time
+06:35:02: L105 arrived at Clinico on time
+06:35:02: L101 arrived at Barbarela on time
+06:35:03: L103 arrived at El Perchel on time
+06:35:05: L203 arrived at La Isla on time
+06:35:06: L205 arrived at El Torcal on time
+06:35:57: L204 arrived at Guadalmedina 1 minute early
+06:36:00: L101 departed from Barbarela on time
+06:36:00: L103 departed from El Perchel on time
+06:36:00: L203 departed from La Isla on time
+06:36:00: L105 departed from Clinico on time
+06:36:00: L205 departed from El Torcal on time
+06:36:01: L106 entered railway at Entrada línea roja, track element 4-25, on time
+06:36:01: L206 entered railway at Entrada línea azul, track element 4-35, on time
+06:36:02: L102 arrived at Guadalmedina on time
+06:36:02: L104 arrived at Carranque on time
+06:36:08: L202 arrived at Puerta Blanca on time
+06:37:00: L102 departed from Guadalmedina on time
+06:37:00: L202 departed from Puerta Blanca on time
+06:37:00: L104 departed from Carranque on time
+06:37:01: L103 arrived at Guadalmedina on time
+06:37:02: L101 arrived at Carranque on time
+06:37:02: L105 arrived at Universidad on time
+06:37:05: L205 arrived at Princesa - Huelin, on time
+06:37:06: L203 arrived at Princesa - Huelin, on time
+06:37:13: L206 arrived at Palacio de los Deportes on time
+06:37:14: L106 arrived at Andalucia Tech on time
+06:37:43: L206 departed from Palacio de los Deportes on time
+06:37:44: L106 departed from Andalucia Tech on time
+06:38:00: L101 departed from Carranque on time
+06:38:00: L103 departed from Guadalmedina on time
+06:38:00: L203 departed from Princesa - Huelin, on time
+06:38:00: L204 changed direction at Guadalmedina on time
+06:38:00: L105 departed from Universidad on time
+06:38:00: L205 departed from Princesa - Huelin, on time
+06:38:02: L104 arrived at Barbarela on time
+06:38:03: L102 arrived at El Perchel on time
+06:38:06: L202 arrived at Palacio de los Deportes on time
+06:38:48: L206 arrived at Puerta Blanca on time
+06:38:53: L106 arrived at Paraninfo on time
+06:39:00: L102 departed from El Perchel on time
+06:39:00: L202 departed from Palacio de los Deportes on time
+06:39:00: L104 departed from Barbarela on time
+06:39:00: L204 departed from Guadalmedina on time
+06:39:02: L103 arrived at Atarazanas on time
+06:39:02: L105 arrived at Ciudad de la Justicia on time
+06:39:03: L101 arrived at Portada Alta on time
+06:39:05: L203 arrived at El Torcal on time
+06:39:08: L205 arrived at La Isla on time
+06:39:18: L206 departed from Puerta Blanca on time
+06:39:23: L106 departed from Paraninfo on time
+06:39:53: L202 left railway at Salida línea azul, track element 4-33, on time
+06:39:58: L204 arrived at El Perchel 1 minute early
+06:39:59: L104 arrived at La Union 1 minute early
+06:40:00: L101 departed from Portada Alta on time
+06:40:00: L203 departed from El Torcal on time
+06:40:00: L105 departed from Ciudad de la Justicia on time
+06:40:00: L205 departed from La Isla on time
+06:40:04: L102 arrived at La Union on time
+06:40:28: L206 arrived at La Luz - La Paz, on time
+06:40:29: L106 arrived at El Consul on time
+06:41:00: L102 departed from La Union on time
+06:41:00: L103 changed direction at Atarazanas on time
+06:41:00: L104 departed from La Union on time
+06:41:00: L204 departed from El Perchel on time
+06:41:00: L106 departed from El Consul on time
+06:41:00: L206 departed from La Luz - La Paz, on time
+06:41:03: L101 arrived at Ciudad de la Justicia on time
+06:41:03: L105 arrived at Portada Alta on time
+06:41:05: L205 arrived at El Perchel on time
+06:41:08: L203 arrived at La Luz - La Paz, on time
+06:42:00: L101 departed from Ciudad de la Justicia on time
+06:42:00: L103 departed from Atarazanas on time
+06:42:00: L203 departed from La Luz - La Paz, on time
+06:42:00: L105 departed from Portada Alta on time
+06:42:00: L205 departed from El Perchel on time
+06:42:02: L102 arrived at Barbarela on time
+06:42:02: L106 arrived at Clinico on time
+06:42:03: L104 arrived at El Perchel on time
+06:42:05: L204 arrived at La Isla on time
+06:42:06: L206 arrived at El Torcal on time
+06:42:58: L205 arrived at Guadalmedina 1 minute early
+06:43:00: L107 entered railway at Entrada línea roja, track element 4-25, on time
+06:43:00: L207 entered railway at Entrada línea azul, track element 4-35, on time
+06:43:00: L102 departed from Barbarela on time
+06:43:00: L104 departed from El Perchel on time
+06:43:00: L204 departed from La Isla on time
+06:43:00: L106 departed from Clinico on time
+06:43:00: L206 departed from El Torcal on time
+06:43:02: L101 arrived at Universidad on time
+06:43:02: L103 arrived at Guadalmedina on time
+06:43:02: L105 arrived at Carranque on time
+06:43:07: L203 arrived at Puerta Blanca on time
+06:44:00: L101 departed from Universidad on time
+06:44:00: L103 departed from Guadalmedina on time
+06:44:00: L203 departed from Puerta Blanca on time
+06:44:00: L105 departed from Carranque on time
+06:44:01: L104 arrived at Guadalmedina on time
+06:44:02: L102 arrived at Carranque on time
+06:44:02: L106 arrived at Universidad on time
+06:44:05: L206 arrived at Princesa - Huelin, on time
+06:44:07: L204 arrived at Princesa - Huelin, on time
+06:44:11: L207 arrived at Palacio de los Deportes on time
+06:44:13: L107 arrived at Andalucia Tech on time
+06:44:42: L207 departed from Palacio de los Deportes on time
+06:44:43: L107 departed from Andalucia Tech on time
+06:45:00: L102 departed from Carranque on time
+06:45:00: L104 departed from Guadalmedina on time
+06:45:00: L204 departed from Princesa - Huelin, on time
+06:45:00: L205 changed direction at Guadalmedina on time
+06:45:00: L106 departed from Universidad on time
+06:45:00: L206 departed from Princesa - Huelin, on time
+06:45:02: L105 arrived at Barbarela on time
+06:45:03: L101 arrived at Clinico on time
+06:45:03: L103 arrived at El Perchel on time
+06:45:06: L203 arrived at Palacio de los Deportes on time
+06:45:46: L207 arrived at Puerta Blanca on time
+06:45:52: L107 arrived at Paraninfo on time
+06:46:00: L101 departed from Clinico on time
+06:46:00: L103 departed from El Perchel on time
+06:46:00: L203 departed from Palacio de los Deportes on time
+06:46:00: L105 departed from Barbarela on time
+06:46:00: L205 departed from Guadalmedina on time
+06:46:01: L104 arrived at Atarazanas on time
+06:46:02: L106 arrived at Ciudad de la Justicia on time
+06:46:03: L102 arrived at Portada Alta on time
+06:46:06: L204 arrived at El Torcal on time
+06:46:08: L206 arrived at La Isla on time
+06:46:17: L207 departed from Puerta Blanca on time
+06:46:22: L107 departed from Paraninfo on time
+06:46:52: L203 left railway at Salida línea azul, track element 4-33, on time
+06:46:57: L205 arrived at El Perchel 1 minute early
+06:46:59: L105 arrived at La Union 1 minute early
+06:47:00: L102 departed from Portada Alta on time
+06:47:00: L204 departed from El Torcal on time
+06:47:00: L106 departed from Ciudad de la Justicia on time
+06:47:00: L206 departed from La Isla on time
+06:47:02: L101 arrived at El Consul on time
+06:47:03: L103 arrived at La Union on time
+06:47:26: L207 arrived at La Luz - La Paz, on time
+06:47:28: L107 arrived at El Consul on time
+06:48:00: L101 departed from El Consul on time
+06:48:00: L103 departed from La Union on time
+06:48:00: L104 changed direction at Atarazanas on time
+06:48:00: L105 departed from La Union on time
+06:48:00: L205 departed from El Perchel on time
+06:48:00: L107 departed from El Consul on time
+06:48:00: L207 departed from La Luz - La Paz, on time
+06:48:02: L106 arrived at Portada Alta on time
+06:48:02: L102 arrived at Ciudad de la Justicia on time
+06:48:05: L206 arrived at El Perchel on time
+06:48:08: L204 arrived at La Luz - La Paz, on time
+06:49:00: L102 departed from Ciudad de la Justicia on time
+06:49:00: L104 departed from Atarazanas on time
+06:49:00: L204 departed from La Luz - La Paz, on time
+06:49:00: L106 departed from Portada Alta on time
+06:49:00: L206 departed from El Perchel on time
+06:49:02: L107 arrived at Clinico on time
+06:49:02: L101 arrived at Paraninfo on time
+06:49:03: L103 arrived at Barbarela on time
+06:49:03: L105 arrived at El Perchel on time
+06:49:06: L205 arrived at La Isla on time
+06:49:06: L207 arrived at El Torcal on time
+06:49:58: L206 arrived at Guadalmedina 1 minute early
+06:50:00: L108 entered railway at Entrada línea roja, track element 4-25, on time
+06:50:00: L208 entered railway at Entrada línea azul, track element 4-35, on time
+06:50:00: L101 departed from Paraninfo on time
+06:50:00: L103 departed from Barbarela on time
+06:50:00: L105 departed from El Perchel on time
+06:50:00: L205 departed from La Isla on time
+06:50:00: L107 departed from Clinico on time
+06:50:00: L207 departed from El Torcal on time
+06:50:01: L104 arrived at Guadalmedina on time
+06:50:02: L102 arrived at Universidad on time
+06:50:03: L106 arrived at Carranque on time
+06:50:07: L204 arrived at Puerta Blanca on time
+06:51:00: L102 departed from Universidad on time
+06:51:00: L104 departed from Guadalmedina on time
+06:51:00: L204 departed from Puerta Blanca on time
+06:51:00: L106 departed from Carranque on time
+06:51:01: L105 arrived at Guadalmedina on time
+06:51:02: L103 arrived at Carranque on time
+06:51:02: L107 arrived at Universidad on time
+06:51:03: L101 arrived at Andalucia Tech on time
+06:51:06: L205 arrived at Princesa - Huelin, on time
+06:51:06: L207 arrived at Princesa - Huelin, on time
+06:51:11: L208 arrived at Palacio de los Deportes on time
+06:51:13: L108 arrived at Andalucia Tech on time
+06:51:42: L208 departed from Palacio de los Deportes on time
+06:51:43: L108 departed from Andalucia Tech on time
+06:52:00: L101 departed from Andalucia Tech on time
+06:52:00: L103 departed from Carranque on time
+06:52:00: L105 departed from Guadalmedina on time
+06:52:00: L205 departed from Princesa - Huelin, on time
+06:52:00: L206 changed direction at Guadalmedina on time
+06:52:00: L107 departed from Universidad on time
+06:52:00: L207 departed from Princesa - Huelin, on time
+06:52:02: L106 arrived at Barbarela on time
+06:52:03: L102 arrived at Clinico on time
+06:52:03: L104 arrived at El Perchel on time
+06:52:06: L204 arrived at Palacio de los Deportes on time
+06:52:47: L208 arrived at Puerta Blanca on time
+06:52:49: L101 left railway at Salida 1, track element 4-23, on time
+06:52:52: L108 arrived at Paraninfo on time
+06:53:00: L102 departed from Clinico on time
+06:53:00: L104 departed from El Perchel on time
+06:53:00: L204 departed from Palacio de los Deportes on time
+06:53:00: L106 departed from Barbarela on time
+06:53:00: L206 departed from Guadalmedina on time
+06:53:02: L103 arrived at Portada Alta on time
+06:53:02: L105 arrived at Atarazanas on time
+06:53:02: L107 arrived at Ciudad de la Justicia on time
+06:53:06: L205 arrived at El Torcal on time
+06:53:08: L207 arrived at La Isla on time
+06:53:17: L208 departed from Puerta Blanca on time
+06:53:22: L108 departed from Paraninfo on time
+06:53:53: L204 left railway at Salida línea azul, track element 4-33, on time
+06:53:56: L206 arrived at El Perchel 1 minute early
+06:54:00: L103 departed from Portada Alta on time
+06:54:00: L205 departed from El Torcal on time
+06:54:00: L106 arrived at La Union on time
+06:54:00: L107 departed from Ciudad de la Justicia on time
+06:54:00: L207 departed from La Isla on time
+06:54:02: L102 arrived at El Consul on time
+06:54:03: L104 arrived at La Union on time
+06:54:28: L108 arrived at El Consul on time
+06:54:28: L208 arrived at La Luz - La Paz, on time
+06:55:00: L102 departed from El Consul on time
+06:55:00: L104 departed from La Union on time
+06:55:00: L105 changed direction at Atarazanas on time
+06:55:00: L106 departed from La Union on time
+06:55:00: L206 departed from El Perchel on time
+06:55:00: L108 departed from El Consul on time
+06:55:00: L208 departed from La Luz - La Paz, on time
+06:55:02: L107 arrived at Portada Alta on time
+06:55:03: L103 arrived at Ciudad de la Justicia on time
+06:55:05: L207 arrived at El Perchel on time
+06:55:08: L205 arrived at La Luz - La Paz, on time
+06:56:00: L103 departed from Ciudad de la Justicia on time
+06:56:00: L105 departed from Atarazanas on time
+06:56:00: L205 departed from La Luz - La Paz, on time
+06:56:00: L107 departed from Portada Alta on time
+06:56:00: L207 departed from El Perchel on time
+06:56:02: L102 arrived at Paraninfo on time
+06:56:02: L108 arrived at Clinico on time
+06:56:03: L104 arrived at Barbarela on time
+06:56:03: L106 arrived at El Perchel on time
+06:56:06: L206 arrived at La Isla on time
+06:56:06: L208 arrived at El Torcal on time
+06:56:58: L207 arrived at Guadalmedina 1 minute early
+06:57:00: L109 entered railway at Entrada línea roja, track element 4-25, on time
+06:57:00: L209 entered railway at Entrada línea azul, track element 4-35, on time
+06:57:00: L102 departed from Paraninfo on time
+06:57:00: L104 departed from Barbarela on time
+06:57:00: L106 departed from El Perchel on time
+06:57:00: L206 departed from La Isla on time
+06:57:00: L108 departed from Clinico on time
+06:57:00: L208 departed from El Torcal on time
+06:57:02: L105 arrived at Guadalmedina on time
+06:57:02: L103 arrived at Universidad on time
+06:57:02: L107 arrived at Carranque on time
+06:57:07: L205 arrived at Puerta Blanca on time
+06:58:00: L103 departed from Universidad on time
+06:58:00: L105 departed from Guadalmedina on time
+06:58:00: L205 departed from Puerta Blanca on time
+06:58:00: L107 departed from Carranque on time
+06:58:02: L106 arrived at Guadalmedina on time
+06:58:02: L108 arrived at Universidad on time
+06:58:02: L104 arrived at Carranque on time
+06:58:06: L208 arrived at Princesa - Huelin, on time
+06:58:07: L206 arrived at Princesa - Huelin, on time
+06:58:11: L209 arrived at Palacio de los Deportes on time
+06:58:12: L109 arrived at Andalucia Tech on time
+06:58:42: L209 departed from Palacio de los Deportes on time
+06:58:43: L109 departed from Andalucia Tech on time
+06:59:00: L104 departed from Carranque on time
+06:59:00: L106 departed from Guadalmedina on time
+06:59:00: L206 departed from Princesa - Huelin, on time
+06:59:00: L207 changed direction at Guadalmedina on time
+06:59:00: L108 departed from Universidad on time
+06:59:00: L208 departed from Princesa - Huelin, on time
+06:59:02: L107 arrived at Barbarela on time
+06:59:02: L103 arrived at Clinico on time
+06:59:03: L102 arrived at Andalucia Tech on time
+06:59:03: L105 arrived at El Perchel on time
+06:59:06: L205 arrived at Palacio de los Deportes on time
+06:59:33: L102 departed from Andalucia Tech on time
+06:59:47: L209 arrived at Puerta Blanca on time
+06:59:52: L109 arrived at Paraninfo on time
+07:00:00: L103 departed from Clinico on time
+07:00:00: L105 departed from El Perchel on time
+07:00:00: L205 departed from Palacio de los Deportes on time
+07:00:00: L107 departed from Barbarela on time
+07:00:00: L207 departed from Guadalmedina on time
+07:00:02: L106 arrived at Atarazanas on time
+07:00:02: L108 arrived at Ciudad de la Justicia on time
+07:00:02: L104 arrived at Portada Alta on time
+07:00:05: L206 arrived at El Torcal on time
+07:00:08: L208 arrived at La Isla on time
+07:00:17: L209 departed from Puerta Blanca on time
+07:00:22: L109 departed from Paraninfo on time
+07:00:23: L102 left railway at Salida 1, track element 4-23, on time
+07:00:52: L205 left railway at Salida línea azul, track element 4-33, on time
+07:00:57: L207 arrived at El Perchel 1 minute early
+07:00:58: L107 arrived at La Union 1 minute early
+07:01:00: L104 departed from Portada Alta on time
+07:01:00: L206 departed from El Torcal on time
+07:01:00: L108 departed from Ciudad de la Justicia on time
+07:01:00: L208 departed from La Isla on time
+07:01:03: L103 arrived at El Consul on time
+07:01:03: L105 arrived at La Union on time
+07:01:28: L109 arrived at El Consul on time
+07:01:28: L209 arrived at La Luz - La Paz, on time
+07:02:00: L103 departed from El Consul on time
+07:02:00: L105 departed from La Union on time
+07:02:00: L106 changed direction at Atarazanas on time
+07:02:00: L107 departed from La Union on time
+07:02:00: L207 departed from El Perchel on time
+07:02:00: L109 departed from El Consul on time
+07:02:00: L209 departed from La Luz - La Paz, on time
+07:02:02: L104 arrived at Ciudad de la Justicia on time
+07:02:02: L108 arrived at Portada Alta on time
+07:02:03: L208 arrived at El Perchel on time
+07:02:08: L206 arrived at La Luz - La Paz, on time
+07:03:00: L104 departed from Ciudad de la Justicia on time
+07:03:00: L106 departed from Atarazanas on time
+07:03:00: L206 departed from La Luz - La Paz, on time
+07:03:00: L108 departed from Portada Alta on time
+07:03:00: L208 departed from El Perchel on time
+07:03:02: L103 arrived at Paraninfo on time
+07:03:02: L105 arrived at Barbarela on time
+07:03:02: L109 arrived at Clinico on time
+07:03:03: L107 arrived at El Perchel on time
+07:03:06: L207 arrived at La Isla on time
+07:03:06: L209 arrived at El Torcal on time
+07:03:58: L208 arrived at Guadalmedina 1 minute early
+07:04:00: L103 departed from Paraninfo on time
+07:04:00: L105 departed from Barbarela on time
+07:04:00: L107 departed from El Perchel on time
+07:04:00: L207 departed from La Isla on time
+07:04:00: L109 departed from Clinico on time
+07:04:00: L209 departed from El Torcal on time
+07:04:01: L106 arrived at Guadalmedina on time
+07:04:02: L110 entered railway at Entrada línea roja, track element 4-25, on time
+07:04:02: L210 entered railway at Entrada línea azul, track element 4-35, on time
+07:04:03: L104 arrived at Universidad on time
+07:04:03: L108 arrived at Carranque on time
+07:04:07: L206 arrived at Puerta Blanca on time
+07:05:00: L104 departed from Universidad on time
+07:05:00: L106 departed from Guadalmedina on time
+07:05:00: L206 departed from Puerta Blanca on time
+07:05:00: L108 departed from Carranque on time
+07:05:02: L105 arrived at Carranque on time
+07:05:02: L107 arrived at Guadalmedina on time
+07:05:03: L109 arrived at Universidad on time
+07:05:04: L103 arrived at Andalucia Tech on time
+07:05:06: L207 arrived at Princesa - Huelin, on time
+07:05:06: L209 arrived at Princesa - Huelin, on time
+07:05:13: L210 arrived at Palacio de los Deportes on time
+07:05:15: L110 arrived at Andalucia Tech on time
+07:05:44: L210 departed from Palacio de los Deportes on time
+07:05:45: L110 departed from Andalucia Tech on time
+07:06:00: L103 departed from Andalucia Tech on time
+07:06:00: L105 departed from Carranque on time
+07:06:00: L107 departed from Guadalmedina on time
+07:06:00: L207 departed from Princesa - Huelin, on time
+07:06:00: L208 changed direction at Guadalmedina on time
+07:06:00: L109 departed from Universidad on time
+07:06:00: L209 departed from Princesa - Huelin, on time
+07:06:02: L104 arrived at Clinico on time
+07:06:02: L108 arrived at Barbarela on time
+07:06:03: L106 arrived at El Perchel on time
+07:06:06: L206 arrived at Palacio de los Deportes on time
+07:06:49: L103 left railway at Salida 1, track element 4-23, on time
+07:06:50: L210 arrived at Puerta Blanca on time
+07:06:54: L110 arrived at Paraninfo on time
+07:07:00: L104 departed from Clinico on time
+07:07:00: L106 departed from El Perchel on time
+07:07:00: L206 departed from Palacio de los Deportes on time
+07:07:00: L108 departed from Barbarela on time
+07:07:00: L208 departed from Guadalmedina on time
+07:07:02: L107 arrived at Atarazanas on time
+07:07:02: L109 arrived at Ciudad de la Justicia on time
+07:07:03: L105 arrived at Portada Alta on time
+07:07:06: L207 arrived at El Torcal on time
+07:07:08: L209 arrived at La Isla on time
+07:07:20: L210 departed from Puerta Blanca on time
+07:07:24: L110 departed from Paraninfo on time
+07:07:52: L206 left railway at Salida línea azul, track element 4-33, on time
+07:07:57: L208 arrived at El Perchel 1 minute early
+07:07:58: L108 arrived at La Union 1 minute early
+07:08:00: L105 departed from Portada Alta on time
+07:08:00: L207 departed from El Torcal on time
+07:08:00: L109 departed from Ciudad de la Justicia on time
+07:08:00: L209 departed from La Isla on time
+07:08:02: L104 arrived at El Consul on time
+07:08:02: L106 arrived at La Union on time
+07:08:29: L210 arrived at La Luz - La Paz, on time
+07:08:30: L110 arrived at El Consul on time
+07:09:00: L104 departed from El Consul on time
+07:09:00: L106 departed from La Union on time
+07:09:00: L107 changed direction at Atarazanas on time
+07:09:00: L108 departed from La Union on time
+07:09:00: L208 departed from El Perchel on time
+07:09:00: L210 departed from La Luz - La Paz, on time
+07:09:00: L110 departed from El Consul on time
+07:09:02: L109 arrived at Portada Alta on time
+07:09:02: L105 arrived at Ciudad de la Justicia on time
+07:09:05: L209 arrived at El Perchel on time
+07:09:08: L207 arrived at La Luz - La Paz, on time
+07:10:00: L105 departed from Ciudad de la Justicia on time
+07:10:00: L107 departed from Atarazanas on time
+07:10:00: L207 departed from La Luz - La Paz, on time
+07:10:00: L109 departed from Portada Alta on time
+07:10:00: L209 departed from El Perchel on time
+07:10:02: L104 arrived at Paraninfo on time
+07:10:03: L106 arrived at Barbarela on time
+07:10:03: L108 arrived at El Perchel on time
+07:10:03: L110 arrived at Clinico on time
+07:10:06: L208 arrived at La Isla on time
+07:10:06: L210 arrived at El Torcal on time
+07:10:57: L209 arrived at Guadalmedina 1 minute early
+07:11:00: L111 entered railway at Entrada línea roja, track element 4-25, on time
+07:11:00: L211 entered railway at Entrada línea azul, track element 4-35, on time
+07:11:00: L104 departed from Paraninfo on time
+07:11:00: L106 departed from Barbarela on time
+07:11:00: L108 departed from El Perchel on time
+07:11:00: L208 departed from La Isla on time
+07:11:00: L110 departed from Clinico on time
+07:11:00: L210 departed from El Torcal on time
+07:11:02: L107 arrived at Guadalmedina on time
+07:11:02: L109 arrived at Carranque on time
+07:11:03: L105 arrived at Universidad on time
+07:11:07: L207 arrived at Puerta Blanca on time
+
+
+***************************************
+
+Performance summary:
+276 on-time arrivals
+0 late arrivals
+24 early arrivals (average 1,0 min)
+0 on-time passes
+0 late passes
+0 early passes
+9 on-time exits
+0 late exits
+0 early exits
+295 on-time departures
+0 late departures
+0 missed stops
+0 other missed events
+0 skipped timetable events
+0 unexpected train exits
+0 incorrect train exits
+0 train failures
+0 SPAD risks
+0 SPADs
+0 derailments
+0 crashed trains
+
+***************************************
+
+Overall score: 100%
+Overall rating: Perfect!
+
+***************************************
